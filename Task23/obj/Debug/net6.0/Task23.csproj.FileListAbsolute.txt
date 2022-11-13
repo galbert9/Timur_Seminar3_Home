@@ -1,0 +1,15 @@
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Task23/bin/Debug/net6.0/Task23
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Task23/bin/Debug/net6.0/Task23.deps.json
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Task23/bin/Debug/net6.0/Task23.runtimeconfig.json
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Task23/bin/Debug/net6.0/Task23.dll
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Task23/bin/Debug/net6.0/Task23.pdb
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Task23/obj/Debug/net6.0/Task23.csproj.AssemblyReference.cache
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Task23/obj/Debug/net6.0/Task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Task23/obj/Debug/net6.0/Task23.AssemblyInfoInputs.cache
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Task23/obj/Debug/net6.0/Task23.AssemblyInfo.cs
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Task23/obj/Debug/net6.0/Task23.csproj.CoreCompileInputs.cache
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Task23/obj/Debug/net6.0/Task23.dll
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Task23/obj/Debug/net6.0/refint/Task23.dll
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Task23/obj/Debug/net6.0/Task23.pdb
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Task23/obj/Debug/net6.0/Task23.genruntimeconfig.cache
+/Users/gennadj/Desktop/C#/C#_Семинары&Home/Task23/obj/Debug/net6.0/ref/Task23.dll
